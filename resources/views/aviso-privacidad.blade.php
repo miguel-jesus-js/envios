@@ -189,21 +189,30 @@
         <br>
         <p><b>¿Qué hacemos con la información personal?</b></p>
         <br>
-        <p>La recolección y tratamiento de tu información personal nos permite prestarte un excelente servicio para que puedas realizar operaciones de forma rápida y segura y ofrecerte funcionalidades que se adaptan mejor a tus necesidades. Compártelo podrá utilizar tu información personal para las siguientes finalidades:</p>
+        <p>La recolección y tratamiento de tu información personal nos permite prestarte un excelente servicio para que puedas realizar operaciones de forma rápida y segura y ofrecerte funcionalidades que se adaptan mejor a tus necesidades</p>
         <ol>
             <li>Brindar los servicios y/o beneficios que ofrece la plataforma.</li>
             <ul>
-                <li>Identificarte y contactarte.</li>
-                <li>Registrarte en nuestro sistema.</li>
-                <li>Verificar tu identidad en cumplimiento de exigencias legales.</li>
-                <li>Validar, actualizar y corregir tu información.</li>
-                <li>Brindarte los productos, servicios y/o beneficios que solicitas o contratas con nosotros.</li>
-                <li>Elaborar y mantener un registro de las operaciones que realices, así como informarte acerca de las mismas y darle seguimiento correspondiente.</li>
-                <li>Atender tus comentarios, quejas y sugerencias, así como brindarte soporte.</li>
-                <li>Ofrecerte servicios y funcionalidades que se adecuen mejor a tus necesidades, y personalizar nuestros servicios para hacer que tus experiencias con Compártelo sean lo más cómodas posible.</li>
-                <li>Contribuir a la seguridad de las relaciones, comunicaciones y transacciones entre los usuarios de nuestra plataforma.</li>
+                <li>Identificarte con tus datos personales</li>
+                <li>Brindarte los productos, servicios y/o beneficios que solicitas o contratas con nosotros</li>
+                <li>Ofrecerte servicios y funcionalidades que se adecuen mejor a tus necesidades, y personalizar nuestros servicios para hacer que tus experiencias</li>
+                <li>Elaborar un sistema de reputación de usuarios, para beneficio de los consumidores</li>
             </ul>
         </ol>
+        <br>
+        <p><b>¿Qué datos personales utilizaremos para estos fines?</b></p>
+        <br>
+        <p>Para llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales.</p>
+        <ul>
+            <li>Nombre</li>
+            <li>Correo electrónico</li>
+            <li>Ubicación </li>
+            <li>Destino a donde ir</li>
+        </ul>
+        <br>
+        <p><b><p><b>¿Qué datos personales utilizaremos para estos fines?</b></p></b></p>
+        <br>
+        <p>La presente política de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas.</p>
     </div>
     <br>
     <script src="{{ asset('assets/js/jquery.min.js') }}"></script>

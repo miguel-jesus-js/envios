@@ -17,8 +17,5 @@ use App\Http\Controllers\CalcularEnvioController;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/aviso-privacidad', function () {
-    return view('aviso-privacidad');
-});
 Route::post('api/calcularEnvio', [CalcularEnvioController::class, 'index']);
 
